@@ -56,11 +56,6 @@ Global-Food-Production-Trends-Analysis-PowerBI/
 
 ---
 
-## 🖼 Dashboard Preview
-![Dashboard Preview](Images/dashboard_screenshot.png)
-
----
-
 ## 📊 Dashboard Highlights
 - Global food production trends over time
 - Country-wise production comparison
